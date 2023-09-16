@@ -13,7 +13,7 @@ Actualmente, y desde la versión 12.0, este repositorio está siendo mantenido p
 
 El propósito de este repositorio es brindar las funcionalidades mínimas requeridas para la emisión de facturas fiscales dominicanas, utilizando las mejores prácticas y lineamientos de diseño de Odoo; ofreciendo una herramienta fácil de extender y mantener.
 
-## Documentación
+## Documentacion
 
 Acceda al README de cada módulo para ver la documentación
 
